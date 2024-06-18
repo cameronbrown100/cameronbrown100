@@ -1,11 +1,11 @@
 ### About
-Senior Lecturer for the Strathclyde Institute of Pharmacy and Biomedical Sciences at the University of Strathclyde, Glasgow. Specialising in the development of digital design tools and strategies for pharmaceutical manufacturing.
+Reader for the Strathclyde Institute of Pharmacy and Biomedical Sciences at the University of Strathclyde, Glasgow. Specialising in the development of digital design tools and strategies for pharmaceutical manufacturing.
 
 ### Currently working on
-Application of generative and deep learning approaches to the design of pharmaceutical equipment, processes, and products. 
+Application of generative, deep learning, and self-driving lab, approaches to the design of pharmaceutical equipment, processes, and products. 
 
 ### Projects involved with
-Co-investigator for the EPSRC CMAC Future Manufacutring Research Hub, ARTICULAR, and Digital Design and Manufacturing of Amorphous Pharmaceuticals (DDMAP) projects. As part of the GlaxoSmithKline, Nottingham University and University of Strathclyde Prosperity Partnership for a Healthier Nation, I also lead the University of Strathclyde team in the digital manufacturing of novel pharmaceutical processing equipment.
+Principal investigator for PharmaCrystNet and co-investigator on the Digital Design and Manufacturing of Amorphous Pharmaceuticals, Future CMAC Manufacturing Hub, Accelerated Discovery and Development of New Medicines: Prosperity Partnership and ARTICULAR. Knowledge exchange activities include pre-competitive and one-to-one projects with the leading pharmaceutical companies as well as knowledge transfer partnerships.
 
 ### How to reach me
 cameron.brown.100@strath.ac.uk
